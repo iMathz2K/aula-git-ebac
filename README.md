@@ -1,1 +1,7 @@
 # aula-git-ebac
+-Primeiro Nome: Matheus 
+-Profissão:Analista de Dados e Geógrafo 
+-Cidade:RJ 
+-O que faz nas horas vaga: Ler, estudar e atividade física 
+-Feedback sobre o curso Qualidade de Software: Excelente curso 
+-Feedback sobre a plataforma de estudo da EBAC: Plaforma intuitiva e fácil uso 
